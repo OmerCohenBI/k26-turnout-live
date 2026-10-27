@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27T18:58:03Z",
- "updated_israel": "2026-10-27 20:58",
+ "updated_utc": "2026-10-27T19:00:51Z",
+ "updated_israel": "2026-10-27 21:00",
  "cec_turnout_round_file": "EPCNT_204307.Csv",
  "cec_turnout_round_time": "20:43:07",
  "national_turnout": {
@@ -47,8 +47,8 @@
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_turnout_municipal.json"
   },
   "turnout_hours.json": {
-   "sha256": "575680885df77614e0a03eea680167d25b593368768af8bdc9dec796e82bc7d6",
-   "bytes": 4883,
+   "sha256": "9fb8a3777ba9ffbf2e23f2cb8fa1d85d5fc4d452286d53f222ec513aff7be7f1",
+   "bytes": 5106,
    "rows": null,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/turnout_hours.json"
   },
