@@ -104,7 +104,8 @@
  },
  "today": {
   "10:00": 0.1669,
-  "12:00": 0.315
+  "12:00": 0.315,
+  "14:00": 0.449
  },
  "today_voters": {},
  "eligible_26": 7331981,
@@ -129,7 +130,8 @@
    "https://www.kikar.co.il/scoop-news/89437",
    "https://www.maariv.co.il/news/elections-2026/article-1381588",
    "https://www.themarker.com/news/elections/2026-10-27/ty-article-live/.premium/000001a1-7ba1-d5cb-a9ab-7fe53e2d0000 (12:00 = 31.5%, CEC via press)",
-   "10:00=0.1669 auto from news feeds: srugim, ynet"
+   "10:00=0.1669 auto from news feeds: srugim, ynet",
+   "14:00=0.4490 reported by Omer (CEC announcement), entered 15:01 before feeds/map caught up"
   ]
  },
  "notes": "K21-K24 hourly %, voter counts and 22:00 come from the CEC's own 'אחוז ההצבעה המצטבר בחתך שעות' pages (bechirotNN.bechirot.gov.il, now redirected; read via Wayback snapshots, raw HTML in discovery/turnout/wb_b2*.html). The current page (gov.il/he/pages/election-committee-history?chapterIndex=5) is Cloudflare-blocked even through the relay, and no archived copy with the K25 row was found. K25 hourly is therefore from contemporaneous press quoting the CEC on 01/11/2022; every value matches its voter count / 6,788,804 eligible (for example 3,224,350 = 47.50%). The CEC figures for K24 match the press deltas (14:00 34.6 + 4.3 = 38.9; 18:00 51.5 + 6.2 = 57.7). K25 22:00 was not verified. Today: only the 10:00 figure (16.68%, 'more than 1.2 million', highest since 1981, +0.78pp vs K25) had been announced as of 11:27 Israel time (UTC+2; DST ended 25/10). The CEC publishes each hour's figure about 30-60 minutes after the hour. No exact voter count for today has been published (16.68% x 7,331,981 ~ 1.223M, computed, not official), so today_voters is left empty. Hourly % for 1973-2015 is also available in the same CEC table (wb_b24_20231002151628.html)."
