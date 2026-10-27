@@ -1,0 +1,576 @@
+[
+ {
+  "letters": "רק",
+  "name": "ביחד (Together)",
+  "leader": "נפתלי בנט",
+  "bloc": "opposition_zionist",
+  "merged_from": [
+   "בנט 2026",
+   "יש עתיד"
+  ],
+  "poll_seats": 13.6,
+  "notes": "Merger of Yesh Atid (Lapid; K25 letters פה) and Bennett 2026, announced 26/04/2026, Bennett heads. Bennett originally requested ב (went to Otzma). israelvoting.com claims פה belongs to Beyachad in 2026 - stale/pre-filing, contradicted by CEC-approved list in 3 sources: Together = רק. poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-5a85a0ff5d9cd91027.htm",
+   "https://israelvoting.com/candidates"
+  ]
+ },
+ {
+  "letters": "דרך",
+  "name": "ישר! (Yashar)",
+  "leader": "גדי איזנקוט",
+  "bloc": "opposition_zionist",
+  "merged_from": [],
+  "poll_seats": 21.9,
+  "notes": "New party. Hili Tropper joined 06/09/2026 (left his alliance with the Reservists). Leads most late polls. poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election"
+  ]
+ },
+ {
+  "letters": "צדק",
+  "name": "שרשר לאהבה ואחדות העם",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Small list, no leader named.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "ד",
+  "name": "השותפות לכולם",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Small list. NOT Balad (Balad used ד in K25 but now runs inside the Joint List ודם).",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "צף",
+  "name": "הפיראטים - צפים לטוב",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Pirates party, perennial small list.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "ך",
+  "name": "עמך ישראל (Amcha Yisrael)",
+  "leader": "עופר וינטר",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": 0.5,
+  "notes": "Founded by Ofer Winter 25/08/2026; right-wing but not counted in the Netanyahu-bloc 'Gov.' total in polls; usually below threshold (one poll gave 4). poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election"
+  ]
+ },
+ {
+  "letters": "י",
+  "name": "ישראל תחילה",
+  "leader": "שרן השכל",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Small list led by Sharren Haskel (ex-Likud/New Hope MK).",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "ה",
+  "name": "גן עדן",
+  "leader": "ישוע ישראל בן דוד",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "CEC rejected first choice יה (public sensibilities) and approved ה.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "קה",
+  "name": "קול הנשים",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Women's voice list.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "בד",
+  "name": "ביחד נצליח - רשימה משותפת ערבית יהודית",
+  "leader": "אבי שקד",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Self-described Arab-Jewish joint list; small, not part of the Arab parties' Joint List.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "ל",
+  "name": "ישראל ביתנו",
+  "leader": "אביגדור ליברמן",
+  "bloc": "opposition_zionist",
+  "merged_from": [],
+  "poll_seats": 7.6,
+  "notes": "poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election"
+  ]
+ },
+ {
+  "letters": "קץ",
+  "name": "משפט צדק",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "נף",
+  "name": "שמע",
+  "leader": "נפתלי גולדמן",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "ב",
+  "name": "עוצמה יהודית",
+  "leader": "איתמר בן גביר",
+  "bloc": "coalition",
+  "merged_from": [],
+  "poll_seats": 7.6,
+  "notes": "Runs separately from RZP (they ran jointly as ט in K25; Otzma's K25 own letters were נץ). Tally Gotliv joined 03/09. CEC rejected disqualification petition. poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election",
+   "https://israelvoting.com/candidates"
+  ]
+ },
+ {
+  "letters": "קך",
+  "name": "סדר חדש לכינון חוקה, להפרדת רשויות ולבחירות ישירות",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "די",
+  "name": "המילואימניקים והכלכלית",
+  "leader": "יועז הנדל, ירון זליכה",
+  "bloc": "opposition_zionist",
+  "merged_from": [
+   "המילואימניקים",
+   "המפלגה הכלכלית החדשה"
+  ],
+  "poll_seats": 2.0,
+  "notes": "Joint list of The Reservists (Hendel) + New Economic Party (Zelekha). Hovers at the threshold (4 seats in 4 of 8 polls, below in the rest). poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election"
+  ]
+ },
+ {
+  "letters": "אמת",
+  "name": "הדמוקרטים",
+  "leader": "יאיר גולן",
+  "bloc": "opposition_zionist",
+  "merged_from": [
+   "העבודה",
+   "מרצ"
+  ],
+  "poll_seats": 9.1,
+  "notes": "Labor (K25 אמת) + Meretz (K25 מרצ) merged into The Democrats. CEC rejected disqualification petition. poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election"
+  ]
+ },
+ {
+  "letters": "עם",
+  "name": "רע\"ם - הרשימה הערבית המאוחדת",
+  "leader": "מנסור עבאס",
+  "bloc": "arab",
+  "merged_from": [],
+  "poll_seats": 5.5,
+  "notes": "CEC barred it under s.7A(a)(1); approved conditionally; Supreme Court overturned the disqualification on 02/10/2026 - running. Technical bloc with Yoav Segalovitz (ex-Yesh Atid), announced 31/08. Leader not named in the letter sources (Mansour Abbas = long-standing chair). poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election",
+   "https://www.i24news.tv/he/news/israel-elections-2026/artc-9e4e4a93"
+  ]
+ },
+ {
+  "letters": "שס",
+  "name": "ש\"ס - התאחדות הספרדים שומרי התורה",
+  "leader": "אריה דרעי",
+  "bloc": "coalition",
+  "merged_from": [],
+  "poll_seats": 7.9,
+  "notes": "Leader not named in the letter sources (Aryeh Deri = chair). poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election"
+  ]
+ },
+ {
+  "letters": "זך",
+  "name": "הציבור החרדי (Haredi Public)",
+  "leader": "מוטי לייטנר / משה ליצנר (conflict)",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": 0.0,
+  "notes": "Leader name conflicts: handled.team 'מוטי לייטנר', mako 'Moti Litner', ynet 'Moshe Litzner'. 2 of 3 say Moti Leitner/Litner. Polls 0.3-1.3%. poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election"
+  ]
+ },
+ {
+  "letters": "פה",
+  "name": "אני ואתה - מפלגת העם הישראלית",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "CONFLICT resolved: israelvoting.com says פה (Yesh Atid in K25) belongs to Bennett's Beyachad in 2026; all three CEC-list sources (handled, ynet, mako) assign פה to this small list and רק to Bennett's Together. Treat פה votes as a small list, NOT Yesh Atid/Bennett.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://israelvoting.com/candidates"
+  ]
+ },
+ {
+  "letters": "זץ",
+  "name": "ברית עולם לגאולת ישראל",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "נקי",
+  "name": "התיקון לשיטת הבחירות והממשל",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "יק",
+  "name": "גה\"ת - גוש התנ\"כי",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "ז",
+  "name": "בטח - ביטחון חברתי",
+  "leader": "סמיון (שמעון) גרפמן",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Spelling: handled 'סמיון גרפמן', ynet/mako 'Shimon Grafman'.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "בקר",
+  "name": "אורות השחר",
+  "leader": "ניסים לוק",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "נץ",
+  "name": "ביטחון אישי",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Note: נץ was Otzma Yehudit's own letters before K25 (israelvoting); in K26 Otzma = ב and נץ is this small list.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "נר",
+  "name": "צבע שחור - מגן עולם התורה",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Haredi splinter list.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "מחל",
+  "name": "הליכוד",
+  "leader": "בנימין נתניהו",
+  "bloc": "coalition",
+  "merged_from": [],
+  "poll_seats": 21.1,
+  "notes": "Ch14 poll outlier (30); others 19-21. poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election"
+  ]
+ },
+ {
+  "letters": "כן",
+  "name": "כחול לבן",
+  "leader": "בני גנץ",
+  "bloc": "opposition_zionist",
+  "merged_from": [],
+  "poll_seats": 0.0,
+  "notes": "Letter approved and stays on the ballot/results file, but Gantz withdrew the list from the race on 19/10/2026 (Wikipedia polling page; i24 report); expect ~0 votes. Was 'המחנה הממלכתי' under כן in K25.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election",
+   "https://www.i24news.tv/he/news/israel-elections-2026/artc-06674426"
+  ]
+ },
+ {
+  "letters": "ט",
+  "name": "הציונות הדתית וזהות",
+  "leader": "בצלאל סמוטריץ', משה פייגלין",
+  "bloc": "coalition",
+  "merged_from": [
+   "הציונות הדתית",
+   "זהות"
+  ],
+  "poll_seats": 6.8,
+  "notes": "Technical bloc of Religious Zionism + Zehut (agreed 01/09). Otzma and Noam no longer on this list (both were inside ט in K25). CEC rejected disqualification petition. poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election"
+  ]
+ },
+ {
+  "letters": "צבי",
+  "name": "תנועת אחי (תנועתו של הרב יורם אברג'ל זצ\"ל)",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "בי",
+  "name": "צומת בית ישראל",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "ק",
+  "name": "תקומה",
+  "leader": "unknown",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Name echoes the old National Union-Tkuma faction, but listed as a standalone small list with no leader named; Tkuma's current incarnation is the RZP (ט). Treat as other.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "ודם",
+  "name": "הרשימה המשותפת (Joint List)",
+  "leader": "אחמד טיבי (reported, medium confidence)",
+  "bloc": "arab",
+  "merged_from": [
+   "חד\"ש",
+   "תע\"ל",
+   "בל\"ד"
+  ],
+  "poll_seats": 8.9,
+  "notes": "Hadash + Ta'al (K25 ום) + Balad (K25 ד) re-formed the Joint List 19/08/2026. CEC barred it and 2 candidates; approved conditionally; Supreme Court overturned on 02/10/2026 (also allowed Ofer Kasif); only Balad chair Sami Abu Shahada stayed disqualified / withdrew. Leader per i24 report: Ahmad Tibi heads the list - not confirmed by a second source. poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election",
+   "https://www.i24news.tv/he/news/israel-elections-2026/artc-9e4e4a93",
+   "https://www.maariv.co.il/news/politics/article-1357691"
+  ]
+ },
+ {
+  "letters": "רץ",
+  "name": "הקהל - מפלגה כלל-חרדית",
+  "leader": "הרב שלמה אלבוים",
+  "bloc": "other",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ },
+ {
+  "letters": "ג",
+  "name": "יהדות התורה והשבת - אגודת ישראל - דגל התורה",
+  "leader": "unknown (no leader named in sources)",
+  "bloc": "coalition",
+  "merged_from": [
+   "אגודת ישראל",
+   "דגל התורה"
+  ],
+  "poll_seats": 7.5,
+  "notes": "UTJ again joint Agudat Yisrael + Degel HaTorah. poll_seats = mean of last 8 polls 21-23 Oct 2026 (Ch13, Ch12 x2, Israel Hayom/Kantar, Ch14, Zman Yisrael, Maariv x2) per Wikipedia polling table; below-threshold = 0.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm",
+   "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Israeli_legislative_election"
+  ]
+ },
+ {
+  "letters": "ני",
+  "name": "נעם לישראל למען עתיד הילדים",
+  "leader": "אבי מעוז",
+  "bloc": "coalition",
+  "merged_from": [],
+  "poll_seats": null,
+  "notes": "Noam runs alone (was inside ט in K25); not polled separately, very likely below threshold.",
+  "sources": [
+   "https://elections.handled.team/ballot-letters/",
+   "https://www.ynet.co.il/news/elections2026/article/sjmed8uqgx",
+   "https://www.mako.co.il/news-israel-elections/2026/Article-64bb16ca53771a1027.htm"
+  ]
+ }
+]
