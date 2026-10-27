@@ -109,9 +109,19 @@
   "16:00": 0.557,
   "18:00": 0.667,
   "20:00": 0.743,
-  "final": 0.777
+  "final": 0.777,
+  "22:00": 0.777
  },
- "today_voters": {},
+ "today_voters": {
+  "10:00": 1223286,
+  "12:00": 2309587,
+  "14:00": 3290480,
+  "16:00": 4085075,
+  "18:00": 4892186,
+  "20:00": 5449277,
+  "22:00": 5695682,
+  "final": 5695682
+ },
  "eligible_26": 7331981,
  "sources": {
   "history": [
@@ -138,7 +148,8 @@
    "14:00=0.4490 reported by Omer (CEC announcement), entered 15:01 before feeds/map caught up",
    "18:00 = 66.7% — מעריב, מבזק 27/10 ~19:00 (ועדת הבחירות)",
    "20:00 = 74.3% (5,449,277) — סבב מפת הוועדה EPCNT_204307 (20:43), אותו מספר כמו האומדן הרשמי בשעות הקודמות; הוזן מהלפטופ באישור עמר",
-   "final = 77.7% — שיעור ההצבעה הסופי לפי חדשות 12 (עמית סגל), 27/10 ~23:10, +7.1 נק׳ מול 2022; עוד לא בעמוד הרשמי של הוועדה; הוזן מהלפטופ באישור עמר"
+   "final = 77.7% — שיעור ההצבעה הסופי לפי חדשות 12 (עמית סגל), 27/10 ~23:10, +7.1 נק׳ מול 2022; עוד לא בעמוד הרשמי של הוועדה; הוזן מהלפטופ באישור עמר",
+   "22:00 = 77.7% (5,695,682) — אושר בעמוד הרשמי gov.il/he/pages/turnout_at_polling_stations ב-23:33; today_voters מאותה טבלה רשמית; הוזן מהלפטופ באישור עמר"
   ]
  },
  "notes": "K21-K24 hourly %, voter counts and 22:00 come from the CEC's own 'אחוז ההצבעה המצטבר בחתך שעות' pages (bechirotNN.bechirot.gov.il, now redirected; read via Wayback snapshots, raw HTML in discovery/turnout/wb_b2*.html). The current page (gov.il/he/pages/election-committee-history?chapterIndex=5) is Cloudflare-blocked even through the relay, and no archived copy with the K25 row was found. K25 hourly is therefore from contemporaneous press quoting the CEC on 01/11/2022; every value matches its voter count / 6,788,804 eligible (for example 3,224,350 = 47.50%). The CEC figures for K24 match the press deltas (14:00 34.6 + 4.3 = 38.9; 18:00 51.5 + 6.2 = 57.7). K25 22:00 was not verified. Today: only the 10:00 figure (16.68%, 'more than 1.2 million', highest since 1981, +0.78pp vs K25) had been announced as of 11:27 Israel time (UTC+2; DST ended 25/10). The CEC publishes each hour's figure about 30-60 minutes after the hour. No exact voter count for today has been published (16.68% x 7,331,981 ~ 1.223M, computed, not official), so today_voters is left empty. Hourly % for 1973-2015 is also available in the same CEC table (wb_b24_20231002151628.html). 16:00 = 55.7% per CEC statement to the press (mako liveblog 17:00, +8.2pp vs 2022); entered from the laptop session at 17:11 before the gov.il page/map showed it."
