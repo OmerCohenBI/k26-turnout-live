@@ -1,48 +1,48 @@
 {
- "updated_utc": "2026-10-27T17:01:51Z",
- "updated_israel": "2026-10-27 19:01",
- "cec_turnout_round_file": "EPCNT_164702.Csv",
- "cec_turnout_round_time": "16:47:02",
+ "updated_utc": "2026-10-27T17:05:58Z",
+ "updated_israel": "2026-10-27 19:05",
+ "cec_turnout_round_file": "EPCNT_184449.Csv",
+ "cec_turnout_round_time": "18:44:49",
  "national_turnout": {
-  "kalpis": 11969,
+  "kalpis": 11984,
   "בזב": 7331981,
-  "מצביעים": 4085075,
-  "percent": 55.7,
-  "updated": "16:45",
-  "prev_voters": 2309587,
-  "prev_percent": 31.5,
-  "delta_voters": 1775488,
-  "delta": 24.2
+  "מצביעים": 4892186,
+  "percent": 66.7,
+  "updated": "18:43",
+  "prev_voters": 4085075,
+  "prev_percent": 55.7,
+  "delta_voters": 807111,
+  "delta": 11.0
  },
  "results_counting_started": false,
  "files": {
   "k26_turnout_by_ballot.csv": {
-   "sha256": "722eff3e9b99e7d97e50479e94b8105130034237b36213beae3cfca1df8c1344",
-   "bytes": 958372,
-   "rows": 11969,
+   "sha256": "5945ed90afad2393e1f197661fa7480a8c24dac7a223aaf3a8d5d77c495014f5",
+   "bytes": 959360,
+   "rows": 11984,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_turnout_by_ballot.csv"
   },
   "k26_turnout_by_ballot_rounds.csv": {
-   "sha256": "e26494ba2c80b84d3bc9692bed1a1b1e4fed5e9ebbce8c26fa14f490d808b3bf",
-   "bytes": 2821747,
-   "rows": 40414,
+   "sha256": "bac3ff647c221fd2497c3fb02babe40fa19d95119f760b56529410dd3fef5be4",
+   "bytes": 3661568,
+   "rows": 52398,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_turnout_by_ballot_rounds.csv"
   },
   "k26_turnout_by_settlement.csv": {
-   "sha256": "cd8f6103112ea6581442747b2490c58bdf37c63e0102b3d4ebb100d52eb692f2",
-   "bytes": 117872,
-   "rows": 1218,
+   "sha256": "bc10cab12aa0af545cc83b6b5048d525333b7df65dfd269615bf445b43546153",
+   "bytes": 118026,
+   "rows": 1219,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_turnout_by_settlement.csv"
   },
   "k26_turnout_kalpi.json": {
-   "sha256": "c28f4f9c33100074c9ec41b98a94d5d7ad21c02b992ed38ea630f5160a37d1ba",
-   "bytes": 2263706,
+   "sha256": "ee67c75f08dcebee20bb7e8f02989892b778660ac2b5fea93983e2569666e9ad",
+   "bytes": 2249972,
    "rows": null,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_turnout_kalpi.json"
   },
   "k26_turnout_municipal.json": {
-   "sha256": "eec1953e5d21bf4b388fffddc05019eee9a8d5ffc726c67c9bd06f6245879b6a",
-   "bytes": 235429,
+   "sha256": "01ba8715a64ec32287afc4d574107a8863adafcad93de3a188c63f2e513082bd",
+   "bytes": 233943,
    "rows": null,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_turnout_municipal.json"
   },
