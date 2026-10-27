@@ -1,1 +1,28 @@
-﻿סמל ועדה,שם ישוב,סמל ישוב,בזב,מצביעים,פסולים,כשרים,אמת,ב,בד,בי,בקר,ג,ד,די,דרך,ה,ודם,ז,זך,זץ,ט,י,יק,ך,כן,ל,מחל,ני,נף,נץ,נקי,נר,עם,פה,צבי,צדק,צף,ק,קה,קך,קץ,רץ,רק,שס,
+﻿<!DOCTYPE html>
+<html dir="rtl" lang="he-IL" class="no-js">
+    <head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width" />
+    	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap" rel="stylesheet">
+		<title>Page dont exist 4-V2- ישראל דיגיטלית</title>
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <link rel='stylesheet' type='text/css' media='all' href="css/style.css">      
+    </head>
+    <body class="light-blue no-pa">
+        <img class="logo" src="img/National-digital-logo.png">
+        <div class="wrapper">
+         <section>
+           <img class="img" src="img/Bird-looking-and-standing-on-sign.png">
+           <span class="h1 ma-bo-20 text-center">מצטערים, העמוד שחיפשת לא נמצא</span>
+           <span class="text-center">יתכן שהכתובת הוחלפה או הוזנה לא נכון</span>
+         </section>
+        </div>
+     
+      <span class="number">(3)</span>
+     
+    </body>
+</html>
