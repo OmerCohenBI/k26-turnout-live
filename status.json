@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27T12:51:19Z",
- "updated_israel": "2026-10-27 14:51",
+ "updated_utc": "2026-10-27T12:54:48Z",
+ "updated_israel": "2026-10-27 14:54",
  "cec_turnout_round_file": "EPCNT_125747.Csv",
  "cec_turnout_round_time": "12:57:47",
  "national_turnout": {
@@ -14,7 +14,7 @@
   "delta_voters": 1086301,
   "delta": 14.8
  },
- "results_counting_started": false,
+ "results_counting_started": true,
  "files": {
   "k26_turnout_by_ballot.csv": {
    "sha256": "4ec28502a2379856f83730cf3385f8e6dfaedea7fc6fdbfe4d4a5cd25b172edf",
@@ -59,9 +59,9 @@
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/model_spec.md"
   },
   "k26_expb.csv": {
-   "sha256": "733fd76ca72cc5ca6dcd1c5ad03adcf7efeeb350c8cf149f6076a99bb9184e04",
-   "bytes": 354,
-   "rows": 0,
+   "sha256": "cd494a04bb8ad1b20d4ca268a6e1a5ff3f4170cb42b733fae5f719bb67adb4d6",
+   "bytes": 1337,
+   "rows": 27,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_expb.csv"
   },
   "k26_expc.csv": {
