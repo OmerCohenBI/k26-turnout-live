@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29T11:27:17Z",
- "updated_israel": "2026-10-29 13:27",
+ "updated_utc": "2026-10-29T11:34:52Z",
+ "updated_israel": "2026-10-29 13:34",
  "cec_turnout_round_file": "EPCNT_230511.Csv",
  "cec_turnout_round_time": "23:05:11",
  "national_turnout": {
@@ -59,14 +59,14 @@
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/model_spec.md"
   },
   "k26_expb.csv": {
-   "sha256": "db93ba7e12b783281f9ce790b11a168b054b772cf6bbb71086b0f70cabb4e6c7",
-   "bytes": 1732770,
-   "rows": 12332,
+   "sha256": "f322dfec366e619f211c0add964b742aca7700c97e946e9843cb93cfdb7f9b00",
+   "bytes": 1745382,
+   "rows": 12413,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_expb.csv"
   },
   "k26_expc.csv": {
-   "sha256": "b804e6b6a87b0454dc895cb1018e191972570d87d8f40360aa832e1ce6bbd956",
-   "bytes": 152086,
+   "sha256": "5a58e90f8c1b743752aa5bf6a22b3557a83a53e429bce8be43939bb02fe410c0",
+   "bytes": 152092,
    "rows": 1214,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_expc.csv"
   },
@@ -101,20 +101,20 @@
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/exit_polls.json"
   },
   "k26_forecast_scenarios.csv": {
-   "sha256": "ae020a79bd95b29732aa015fa6c5fa7af5b940f7c55db8064bf90669da454b11",
+   "sha256": "fa23b62529d911e52411848061ab812877f8a8569dc5723c7cccb0b150fda2fb",
    "bytes": 15772,
    "rows": 145,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_forecast_scenarios.csv"
   },
   "k26_seat_chances.csv": {
-   "sha256": "fb39eedecae581a273e21e93fdce0c074e52f9653be55c131c7e65968da4b374",
-   "bytes": 3145,
-   "rows": 25,
+   "sha256": "ba972e5fb7d33e4c10ae3074aba1ca1d149c78302bbbddbddc17eeb569c6cde9",
+   "bytes": 2660,
+   "rows": 20,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_seat_chances.csv"
   },
   "k26_surplus_margins.csv": {
-   "sha256": "0bf5bf8a45dd23dbe1c3daf459db98cd76121c531285625da168a6a6b2e3bb01",
-   "bytes": 947,
+   "sha256": "33fbffbadbaf563b5e2741da935fa5987ac533eacc7bab1705b2d1d1f0f1ed1d",
+   "bytes": 946,
    "rows": 12,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_surplus_margins.csv"
   },
