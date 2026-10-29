@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29T04:02:54Z",
- "updated_israel": "2026-10-29 06:02",
+ "updated_utc": "2026-10-29T04:58:25Z",
+ "updated_israel": "2026-10-29 06:58",
  "cec_turnout_round_file": "EPCNT_230511.Csv",
  "cec_turnout_round_time": "23:05:11",
  "national_turnout": {
@@ -59,15 +59,15 @@
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/model_spec.md"
   },
   "k26_expb.csv": {
-   "sha256": "da363e960abcddda6012888e77f54ae66bca074827ce0d28a3da275f58157381",
-   "bytes": 1656846,
-   "rows": 11836,
+   "sha256": "c26799c846e5d5635688810323ccd0d7cce1f833e58967c29cbe000f13761163",
+   "bytes": 1659482,
+   "rows": 11855,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_expb.csv"
   },
   "k26_expc.csv": {
-   "sha256": "9745991fb11efed5d54b8913ad1066fc7522dd8242bda04a47e9af7e0012aba7",
-   "bytes": 151223,
-   "rows": 1208,
+   "sha256": "842e55c23b7e3403797481e6ea1005387fe99027a58bdb2fee6e1e88005f1373",
+   "bytes": 151343,
+   "rows": 1209,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_expc.csv"
   },
   "k25_expb_cec.csv": {
@@ -101,7 +101,7 @@
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/exit_polls.json"
   },
   "k26_forecast_scenarios.csv": {
-   "sha256": "b302fc07fc95c62060bd9e6320eb1aad4e0591c9eebeff76bc9c043743ad9708",
+   "sha256": "4354a4dec3abcd77a6baba9f90f75e0be44f9385fe5de56bbc178972f00a258a",
    "bytes": 15772,
    "rows": 145,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_forecast_scenarios.csv"
