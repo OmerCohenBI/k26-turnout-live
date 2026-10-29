@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29T05:41:35Z",
- "updated_israel": "2026-10-29 07:41",
+ "updated_utc": "2026-10-29T05:45:33Z",
+ "updated_israel": "2026-10-29 07:45",
  "cec_turnout_round_file": "EPCNT_230511.Csv",
  "cec_turnout_round_time": "23:05:11",
  "national_turnout": {
@@ -101,19 +101,19 @@
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/exit_polls.json"
   },
   "k26_forecast_scenarios.csv": {
-   "sha256": "77702904e44463270647b6cf8a8e8247618dc249ef162f7ee64058514c928b98",
+   "sha256": "d285058f46ac6407cb5aff597a1e7aeaa1598000faf672ca501186b731c3cf25",
    "bytes": 15772,
    "rows": 145,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_forecast_scenarios.csv"
   },
   "k26_seat_chances.csv": {
-   "sha256": "280e4f94cf6d8ea44127afb30a5c52678b09de6ea640c21b5dee2d885f6cdc6d",
+   "sha256": "ecd88fad67d4d702e964f69520ed335aa515374da9c95e327f93ca0c48d72a8c",
    "bytes": 3409,
    "rows": 27,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_seat_chances.csv"
   },
   "k26_surplus_margins.csv": {
-   "sha256": "8d3ba96e6c0c203bffdd24cf86824555ce0d1ee63b6f4e6705a5392c218364ca",
+   "sha256": "23ab5c0f736b5e59b82a83bc55c56331ee80ec3c68277e67bd3b6c3cd1bfa1dd",
    "bytes": 949,
    "rows": 12,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_surplus_margins.csv"
@@ -123,6 +123,18 @@
    "bytes": 803,
    "rows": null,
    "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/surplus_agreements.json"
+  },
+  "k26_surplus_agreements.csv": {
+   "sha256": "42ce0256747ce3d9f246ebb6506aefcf23d8d77cde98f4725db3755d7b864d7c",
+   "bytes": 273,
+   "rows": 5,
+   "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k26_surplus_agreements.csv"
+  },
+  "k20_ballots_long.csv": {
+   "sha256": "9c56e938929019b65fbfa6b8500847519a8b7d6bbcdec8c389e495d3eff978d0",
+   "bytes": 6036817,
+   "rows": 118140,
+   "url": "https://raw.githubusercontent.com/OmerCohenBI/k26-turnout-live/main/k20_ballots_long.csv"
   }
  }
 }
